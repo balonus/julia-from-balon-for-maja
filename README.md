@@ -1,4 +1,7 @@
 # julia-from-balon-for-maja
+
+#code16challenge
+
 https://www.facebook.com/100001227232154/videos/3769357209781816/
 
 Kiedyś bawiłem się fraktalami, więc postanowiłem upchnąć w 16 linijkach fraktal Julii dla Mai. Plus wpłata oczywiście poszła.
